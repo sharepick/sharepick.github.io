@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:63363/post/my-first-blog/</loc>
+    <loc>http://localhost:49281/post/my-first-blog/</loc>
   </url><url>
-    <loc>http://localhost:63363/categories/</loc>
+    <loc>http://localhost:49281/categories/</loc>
   </url><url>
-    <loc>http://localhost:63363/</loc>
+    <loc>http://localhost:49281/</loc>
   </url><url>
-    <loc>http://localhost:63363/post/</loc>
+    <loc>http://localhost:49281/post/</loc>
   </url><url>
-    <loc>http://localhost:63363/tags/</loc>
+    <loc>http://localhost:49281/tags/</loc>
   </url>
 </urlset>
