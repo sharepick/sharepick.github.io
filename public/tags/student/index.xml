@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Student on SharePick Blog</title>
-    <link>http://localhost:1313/tags/student/</link>
+    <link>https://sharepick.github.io/tags/student/</link>
     <description>Recent content in Student on SharePick Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/student/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sharepick.github.io/tags/student/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Student Fountain Pen &amp; Carbon Gel Pen</title>
-      <link>http://localhost:1313/post/newpen/</link>
+      <link>https://sharepick.github.io/post/newpen/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/newpen/</guid>
+      <guid>https://sharepick.github.io/post/newpen/</guid>
       <description>&lt;p&gt;Overview&lt;/p&gt;&#xA;&lt;p&gt;This set includes a student-friendly fountain pen and a smooth-writing carbon gel pen, both designed for long hours of study, homework, note-taking, and exams. Lightweight, durable, and comfortable to hold, they are perfect for primary, middle, and high school students.&lt;/p&gt;&#xA;&lt;p&gt;Features &amp;amp; Benefits&lt;/p&gt;&#xA;&lt;p&gt;Fountain Pen&lt;/p&gt;&#xA;&lt;p&gt;• Smooth and stable writing, no ink blots or skips&lt;/p&gt;&#xA;&lt;p&gt;• Ergonomic grip for comfortable long-time use&lt;/p&gt;&#xA;&lt;p&gt;• Durable nib, suitable for daily practice and homework&lt;/p&gt;</description>
     </item>
   </channel>
