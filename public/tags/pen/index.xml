@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SharePick Blog</title>
-    <link>https://sharepick.github.io/</link>
-    <description>Recent content on SharePick Blog</description>
+    <title>Pen on SharePick Blog</title>
+    <link>https://sharepick.github.io/tags/pen/</link>
+    <description>Recent content in Pen on SharePick Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 03 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://sharepick.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sharepick.github.io/tags/pen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Student Fountain Pen &amp; Carbon Gel Pen — High Quality for Daily Use</title>
       <link>https://sharepick.github.io/post/newpen/</link>
       <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
       <guid>https://sharepick.github.io/post/newpen/</guid>
       <description>&lt;p&gt;Overview&lt;/p&gt;&#xA;&lt;p&gt;This set includes a student-friendly fountain pen and a smooth-writing carbon gel pen, both designed for long hours of study, homework, note-taking, and exams. Lightweight, durable, and comfortable to hold, they are perfect for primary, middle, and high school students.&lt;/p&gt;&#xA;&lt;p&gt;Features &amp;amp; Benefits&lt;/p&gt;&#xA;&lt;p&gt;Fountain Pen&lt;/p&gt;&#xA;&lt;p&gt;• Smooth and stable writing, no ink blots or skips&lt;/p&gt;&#xA;&lt;p&gt;• Ergonomic grip for comfortable long-time use&lt;/p&gt;&#xA;&lt;p&gt;• Durable nib, suitable for daily practice and homework&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>我的第一篇博客</title>
-      <link>https://sharepick.github.io/post/test/</link>
-      <pubDate>Mon, 02 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>https://sharepick.github.io/post/test/</guid>
-      <description>&lt;p&gt;欢迎来到我的博客&lt;/p&gt;&#xA;&lt;p&gt;这是我用Hugo搭建的第一个博客页面，终于成功啦！&lt;/p&gt;&#xA;&lt;p&gt;接下来我想分享&lt;/p&gt;&#xA;&lt;p&gt;• 我的学习笔记&lt;/p&gt;&#xA;&lt;p&gt;• 技术教程&lt;/p&gt;&#xA;&lt;p&gt;• 生活感悟&lt;/p&gt;&#xA;&lt;p&gt;希望能在这里认识更多志同道合的朋友~&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
