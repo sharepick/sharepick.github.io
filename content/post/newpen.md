@@ -1,5 +1,5 @@
 ---
-title: Student Fountain Pen & Carbon Gel Pen — High Quality for Daily Use
+title: Student Fountain Pen & Carbon Gel Pen
 
 date: 2026-03-03
 
@@ -7,7 +7,7 @@ draft: false
 
 tags: [student, pen, stationery, school supplies]
 
-categories: Products
+categories: products
 ---
 Overview
 
