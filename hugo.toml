@@ -4,6 +4,7 @@ theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 preserveTaxonomyNames = true
 hasCJKLanguage = true
+permalinks="/posts/:filename/"
 
 [services]
   # Enable comments by entering your Disqus shortname
