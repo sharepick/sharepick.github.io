@@ -1,15 +1,9 @@
 ---
 title: Student Fountain Pen & Carbon Gel Pen
-
 date: 2026-03-03
-
 draft: false
-
-tags: [student, pen, stationery, school supplies]
-
-categories: products
 ---
-Overview
+
 
 This set includes a student-friendly fountain pen and a smooth-writing carbon gel pen, both designed for long hours of study, homework, note-taking, and exams. Lightweight, durable, and comfortable to hold, they are perfect for primary, middle, and high school students.
 
