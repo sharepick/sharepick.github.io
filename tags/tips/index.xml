@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tips on SharePick Blog</title>
+    <link>https://sharepick.github.io/tags/tips/</link>
+    <description>Recent content in Tips on SharePick Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://sharepick.github.io/tags/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>10 Productivity Tips for Developers</title>
+      <link>https://sharepick.github.io/post/development/</link>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://sharepick.github.io/post/development/</guid>
+      <description>&lt;h1 id=&#34;10-productivity-tips-for-developers&#34;&gt;10 Productivity Tips for Developers&lt;/h1&gt;&#xA;&lt;p&gt;As a developer, staying productive is crucial for meeting deadlines and maintaining a healthy work-life balance. Here are ten practical tips to help you boost your productivity:&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-use-keyboard-shortcuts&#34;&gt;1. Use Keyboard Shortcuts&lt;/h2&gt;&#xA;&lt;p&gt;Mastering keyboard shortcuts for your IDE and operating system can save you hours of time. Learn the most common shortcuts for tasks you perform frequently.&lt;/p&gt;&#xA;&lt;h2 id=&#34;2-take-regular-breaks&#34;&gt;2. Take Regular Breaks&lt;/h2&gt;&#xA;&lt;p&gt;The Pomodoro Technique is a great way to stay focused: work for 25 minutes, then take a 5-minute break. After four cycles, take a longer break.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
