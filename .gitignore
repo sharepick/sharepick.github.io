@@ -1,1 +1,12 @@
-themes/
+# Hugo generated files
+/public
+
+# IDE files
+.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Build files
+.hugo_build.lock
