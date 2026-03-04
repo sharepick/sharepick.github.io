@@ -3,12 +3,6 @@ title: Student Fountain Pen & Carbon Gel Pen
 date: 2026-03-03
 draft: false
 ---
-
-
-This set includes a student-friendly fountain pen and a smooth-writing carbon gel pen, both designed for long hours of study, homework, note-taking, and exams. Lightweight, durable, and comfortable to hold, they are perfect for primary, middle, and high school students.
-
-Features & Benefits
-
 Fountain Pen
 
 • Smooth and stable writing, no ink blots or skips
@@ -42,15 +36,3 @@ Why Choose These Pens?
 • Reliable quality at a student-friendly price
 
 • Suitable for daily use and long-term writing
-
-Store & Purchase Info
-
-You can buy these high-quality student pens at our official store:
-
-Online Store Link:
-https://mytiktok.com
-
-Physical Store Location:
-[Your Address / Mall Name Here]
-
-If you have any questions about product details or bulk orders, feel free to contact us.

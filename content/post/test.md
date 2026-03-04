@@ -4,16 +4,16 @@ date: 2026-03-02
 draft: false
 ---
 
-欢迎来到我的博客
+• New strikes: US President Donald Trump said most of Iran’s military 
+installations have been “knocked out” and that new strikes today targeted
+Iranian leadership. Israel also struck a compound belonging to a group 
+responsible for electing Iran’s next supreme leader, an Israeli source told CNN.
 
-这是我用Hugo搭建的第一个博客页面，终于成功啦！
+• Iran death toll: At least 780 people have been killed by US and 
+Israeli bombing across Iran, the semi-official Tasnim news agency 
+reported, citing the Iranian Red Crescent.
 
-接下来我想分享
-
-• 我的学习笔记
-
-• 技术教程
-
-• 生活感悟
-
-希望能在这里认识更多志同道合的朋友~
+• Oil markets roiled: The price of gasoline in the US just had its 
+largest one-day increase since 2005, as vessels have effectively 
+stopped going through the critical Strait of Hormuz. 
+Oil continued to rise and stocks fell.
