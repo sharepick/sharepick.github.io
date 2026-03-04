@@ -1,6 +1,8 @@
 # Hugo generated files
 /public
 
+themes/
+
 # IDE files
 .idea/
 
